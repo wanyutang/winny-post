@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "0a869000f939ea64",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a45218c8bea1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b5ae86fbcb11dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IntelliJ IDEA 配置 Maven 內網開發環境"
+            }
+          },
+          {
+            "id": "cd678dbae408812b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "874ec51f7c34bb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b408b6809ecf040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09714fedcb75796b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "772483d66d0e950a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "1f4bab93b9ff6c1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f536320ee4eaf431",
+    "type": "split",
+    "children": [
+      {
+        "id": "45de5fbb9f07e0a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3efd381a7d57bb8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO 的反向連結"
+            }
+          },
+          {
+            "id": "53e8a57aad582681",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO 的對外連結"
+            }
+          },
+          {
+            "id": "a826e25ed8da0ff8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "07a8f4c057a77e78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md"
+              },
+              "icon": "lucide-list",
+              "title": "Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "09714fedcb75796b",
+  "lastOpenFiles": [
+    "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
+    "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+    "pages/contents.md"
+  ]
+}
