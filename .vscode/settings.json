@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "logseq/*": true
+    },
+    "loam.openDailyNote.filenameFormat": "yyyy-mm-dd"
+}
