@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+                "file": "pages/SpringBoot/Init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO"
+              "title": "Init"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "cd678dbae408812b",
   "lastOpenFiles": [
-    "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
     "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
+    "pages/SpringBoot/Init.md",
+    "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
     "pages/SpringBoot",
     "assets/Screenshot%202024-08-02%20at%2010.23.53%E2%80%AFAM.jpg",
     "assets/Screenshot_202024-08-02_20at_2010.25.21_E2_80_AFAM_1725353921068_0.jpg",
