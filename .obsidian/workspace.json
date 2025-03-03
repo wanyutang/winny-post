@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
+                "file": "journals/2025-03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntelliJ IDEA 配置 Maven 內網開發環境"
+              "title": "2025-03-03"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -179,8 +180,9 @@
   },
   "active": "cd678dbae408812b",
   "lastOpenFiles": [
-    "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
     "pages/tpiu/IntelliJ IDEA 配置 Maven 內網開發環境.md",
+    "journals/2025-03-03.md",
+    "pages/tpiu/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
     "pages/contents.md"
   ]
 }
