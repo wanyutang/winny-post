@@ -159,14 +159,23 @@
               "icon": "lucide-file",
               "title": "2025-03-04"
             }
+          },
+          {
+            "id": "c8223afe3c5f8ab9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 516.5,
-    "collapsed": true
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd678dbae408812b",
+  "active": "09714fedcb75796b",
   "lastOpenFiles": [
     "journals/2025-03-04.md",
     "pages/TPIU/Mermaid 語法匯出圖檔格式操作說明 - Mermaid Live Editor, Notion, Draw IO.md",
